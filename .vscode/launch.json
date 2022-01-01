@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch pt12",
+            "request": "launch",
+            "mainClass": "pt12",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch pt11",
+            "request": "launch",
+            "mainClass": "pt11",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch pt10",
+            "request": "launch",
+            "mainClass": "pt10",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch pt9",
+            "request": "launch",
+            "mainClass": "pt9",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
