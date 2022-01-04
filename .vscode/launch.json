@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch bitOpXor",
+            "request": "launch",
+            "mainClass": "bitOpXor",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitOpOr",
+            "request": "launch",
+            "mainClass": "bitOpOr",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitOpNot",
+            "request": "launch",
+            "mainClass": "bitOpNot",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitOpAnd",
+            "request": "launch",
+            "mainClass": "bitOpAnd",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
             "name": "Launch pt12",
             "request": "launch",
             "mainClass": "pt12",

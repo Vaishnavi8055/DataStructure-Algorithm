@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Patterns",
         "Loops",
-        "Patterns"
+        "Bitwise Operators"
     ]
 }
