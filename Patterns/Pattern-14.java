@@ -16,7 +16,7 @@ class pt14 {
         System.out.println();
 
 
-        for ( i = 0; i < args.length; i++) {
+        for ( int i = 0; i < args.length; i++) {
             for (int j = 0; j < args.length; j++) {
                 
             }

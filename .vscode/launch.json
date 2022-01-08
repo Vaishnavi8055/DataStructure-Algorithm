@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch rightShift",
+            "request": "launch",
+            "mainClass": "rightShift",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftShift",
+            "request": "launch",
+            "mainClass": "leftShift",
+            "projectName": "DSA_d8159089"
+        },
+        {
+            "type": "java",
             "name": "Launch bitOpXor",
             "request": "launch",
             "mainClass": "bitOpXor",
