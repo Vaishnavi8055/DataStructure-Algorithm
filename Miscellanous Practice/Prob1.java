@@ -4,6 +4,8 @@ class Prob1 {
     int a , b =1;
 
     a = 10;
+
+    System.out.println(a);
     // Error Java can contain only boolean condition in if()
     //if(++a)
     System.out.print(b); 

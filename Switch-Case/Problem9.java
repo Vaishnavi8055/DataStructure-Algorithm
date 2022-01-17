@@ -8,7 +8,7 @@ public class Problem9 {
         int n=2;
         while (true) {
             // No break statement allowed here
-           switch (2) {
+           switch (n) {
                case 2:
                    System.out.print("First Case");
                    break;
